@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Wickstrom</h1>
-<h3 align="center">A passionate frontend developer from Minniapolis</h3>
+<h3 align="center">A passionate fullstack developer from Minniapolis</h3>
 
 - 👨‍💻 All of my projects are available at [https://gilded-youtiao-15fd54.netlify.app/](https://gilded-youtiao-15fd54.netlify.app/)
 
